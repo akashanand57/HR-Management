@@ -1,5 +1,5 @@
 {
-    "installCommnad": "npm install --legacy-peer-deps",
+    "installCommnad": "npm install",
     "version": 2,
     "builds": [
         {
